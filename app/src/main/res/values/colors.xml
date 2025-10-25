@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="beige_background">#F5F0E6</color>
+    <color name="beige_surface">#EDE6D9</color>
+    <color name="beige_primary">#C19A6B</color>
+    <color name="text_primary">#3B3A36</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="border_color">#D8CFC0</color>
+</resources>
